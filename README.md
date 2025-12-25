@@ -1,2 +1,2 @@
-# PROJECTS-SSRS-Report
+# PROJECT-SSRS-Report
 Project for creating a basic SSRS report that is IMPORT ready
